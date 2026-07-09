@@ -5,22 +5,22 @@ A modern, fully responsive personal finance web app built with **React**, **Type
 *A Smart Expense Tracker is a web application that helps users manage their personal finances by recording income and expenses, tracking daily transactions, and monitoring their budget. It provides a simple and user-friendly interface for organizing financial data and improving money management. The application is built using React, TypeScript, Vite, and Tailwind CSS, making it fast, responsive, and modern.
 
 Key Features
-💰 Add income and expense records
-📊 View financial summary
-📅 Track daily transactions
-📈 Monitor spending habits
-📱 Responsive design for all devices
-⚡ Fast performance with Vite
-🎨 Modern user interface using Tailwind CSS
-Technologies Used
-React
-TypeScript
-Vite
-Tailwind CSS
-HTML5
-CSS3
-JavaScript (ES6+)
-Objective
+💰 Add income and expense records.
+📊 View financial summary.
+📅 Track daily transactions.
+📈 Monitor spending habits.
+📱 Responsive design for all devices.
+⚡ Fast performance with Vite.
+🎨 Modern user interface using Tailwind CSS.
+Technologies Used.
+React.
+TypeScript.
+Vite.
+Tailwind CSS.
+HTML5.
+CSS3.
+JavaScript (ES6+).
+Objective.
 
 The main objective of the Smart Expense Tracker is to help users record, organize, and analyze their financial activities, enabling them to make better budgeting decisions and maintain financial discipline.
 
