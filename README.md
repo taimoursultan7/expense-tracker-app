@@ -31,7 +31,7 @@ Improved financial awareness
 Quick access to transaction history
 Clean, responsive, and user-friendly interface
 
-![Smart Expense Tracker](./public/images/smart-expense-tracker-logo..png)
+![Smart Expense Tracker](./public/images/smart-expense-tracker-logo.png)
 
 ## ✨ Features
 
