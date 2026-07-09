@@ -60,6 +60,19 @@ Clean, responsive, and user-friendly interface
 - **LocalStorage API** for persistence
 - **Intl.NumberFormat** for currency formatting (USD)
 
+## 🎨 Color Palette (Option B)
+
+| Role           | Hex       |
+|----------------|-----------|
+| Background deep | `#0B0909` |
+| Background card | `#1D2128` |
+| Background mid  | `#15181F` |
+| Brand teal      | `#34A99D` |
+| Income green    | `#86EFAC` |
+| Expense red     | `#FCA5A5` |
+| Text primary    | `#FFFFFF` |
+| Text secondary  | `#E2E8F0` |
+| Text muted      | `#94A3B8` |
 
 ## 🚀 Getting Started
 
