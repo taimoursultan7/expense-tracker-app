@@ -2,7 +2,7 @@
 
 A modern, fully responsive personal finance web app built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. It helps users record income and expenses, track spending, manage budgets, and view balances at a glance — all in a polished dark HD interface.
 
-
+![Smart Expense Tracker](./public/images/smart-expense-tracker-logo.png)
 
 ## ✨ Features
 
